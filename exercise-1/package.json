@@ -1,0 +1,19 @@
+{
+  "name": "exercise-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
